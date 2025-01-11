@@ -1,0 +1,25 @@
+.form {
+  width: 300px;
+  display: flex;
+  padding: 10px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+  background-color: rgb(83, 80, 80);
+}
+
+.errorMessage {
+  color: red;
+}
+
+.button {
+  background-color: grey;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+}

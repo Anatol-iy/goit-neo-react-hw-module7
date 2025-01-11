@@ -1,0 +1,10 @@
+.error {
+  color: red;
+  padding: 10px;
+  border: 1px solid red;
+  margin: 10px 0;
+}
+
+.error strong {
+  font-weight: bold;
+}
